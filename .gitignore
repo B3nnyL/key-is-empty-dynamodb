@@ -1,0 +1,6 @@
+.localstack
+.vscode
+bin
+obj
+.terraform
+.terraform.lock.hcl
